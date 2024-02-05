@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - MovingPlatform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG1
+    uniqueID: 3530632547
+    locked: 0
+  - name: BG2
+    uniqueID: 4071260393
+    locked: 0
+  - name: BG3
+    uniqueID: 3676889647
+    locked: 0
+  - name: ThingsInWater
+    uniqueID: 1363808107
+    locked: 0
+  - name: PDecorationsBack
+    uniqueID: 146021145
+    locked: 0
+  - name: Platforms
+    uniqueID: 1063175115
+    locked: 0
+  - name: Collectables
+    uniqueID: 3749781451
+    locked: 0
+  - name: Player
+    uniqueID: 1460005743
+    locked: 0
+  - name: PDecorationsFront
+    uniqueID: 3665894191
+    locked: 0
